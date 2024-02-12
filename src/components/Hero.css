@@ -1,0 +1,9 @@
+.hero img {
+    display: flex;
+}
+
+.hero {
+    width: 90vmax;
+    margin: 50px auto;
+
+}

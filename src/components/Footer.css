@@ -1,0 +1,12 @@
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 30px;
+    
+}
+p{
+    padding: 5px 0;
+}
