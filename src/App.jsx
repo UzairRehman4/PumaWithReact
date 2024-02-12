@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import "./App.css";
 import puma from "./assets/puma.png";
 import Footer from "./components/Footer";
+import HeroImage from "./components/HeroImage";
 // import Child from "./components/Child";
 
 function App() {
@@ -53,6 +54,7 @@ function App() {
     <>
     
       <Header />
+      <HeroImage/>
       <div
         style={{
           display: "flex",

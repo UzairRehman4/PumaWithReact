@@ -1,5 +1,5 @@
 import "./Hero.css";
-// import puma from "../assets/puma.png";
+
 
 const Hero = (props) => {
   const { title, price, images, trending } = props;
